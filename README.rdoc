@@ -1,0 +1,2 @@
+Codigo para resolver o problema Love Triangle no codeForces, https://codeforces.com/contest/939/problem/A
+Foi usado uma implementação do algoritmo Depth First Search com algumas modificações
